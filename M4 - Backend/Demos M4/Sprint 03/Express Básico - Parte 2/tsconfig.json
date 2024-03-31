@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    /* Projects */
+    "target": "es2016",
+
+    /* Modules */
+    "module": "commonjs",
+    "typeRoots": ["node_modules/@types"],
+
+    /* JavaScript Support */
+
+    /* Emit */
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+
+    /* Type Checking */
+    "strict": true,
+    "exactOptionalPropertyTypes": true,
+
+    /* Completeness */
+    "skipLibCheck": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["src/**/*"]
+}

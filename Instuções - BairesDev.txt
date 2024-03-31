@@ -1,0 +1,12 @@
+Hello, my name is Italo Kaiq and I am studying fullstack at Kenzy Academy. 
+I have experience with JavaScript, React.js, Express and other programming tools and languages.
+
+My motivation to pursue a career in software development comes from my passion for solving problems and creating innovative solutions. Since I was a child, I have always enjoyed logical and mathematical challenges, and I was fascinated by technology and its advances. Throughout my training, I was able to apply my knowledge to real projects and see the positive impact they generated.
+
+One of my main qualities is the ability to learn quickly and adapt to new technologies. I'm always looking to update myself and improve my knowledge, whether through online courses, books, podcasts or participating in developer communities. I believe that continuous learning is essential for success in the software field.
+
+Another skill that I consider important is collaboration and communication. I have worked on several team projects, both at college and during internships, and I know how essential it is to have a good relationship with colleagues. I always try to listen to the opinions of others, share my ideas, give and receive constructive feedback and contribute to the development of a quality product.
+
+I would like to sincerely thank you for the opportunity to share a little about myself in this video. I am excited about the possibility of being part of the BairesDev team and contributing to innovative projects.
+
+Thank you again for your consideration. I am ready and excited to move forward in the selection process and discuss how I can contribute to BairesDev's success. I look forward to the next stage with enthusiasm.
